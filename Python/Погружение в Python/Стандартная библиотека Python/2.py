@@ -108,3 +108,5 @@ if __name__ == "__main__":
     width = float(sys.argv[1])
     height = float(sys.argv[2])
     r = Rectangle(width, height)
+
+# удалила лишнее
