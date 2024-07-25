@@ -1,0 +1,3 @@
+2024-01-30 21:43:58,128, INFO: FileInfo(name='.idea', extension='', is_directory=True, parent_directory='Стандартная библиотека Python')
+2024-01-30 21:43:58,130, INFO: FileInfo(name='1', extension='.py', is_directory=False, parent_directory='15')
+2024-01-30 21:43:58,130, INFO: FileInfo(name='file_info', extension='.log', is_directory=False, parent_directory='15')
